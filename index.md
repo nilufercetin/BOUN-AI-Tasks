@@ -12,3 +12,7 @@
 
 [Third](files/BOUN_AI_Task_3.html) task is a basic Neural Network application on data of second task using Keras.
 
+## Task 4 / May 2021
+
+[Fourth](files/BOUN AI Task 4 (1) (1).html) task is a Convolutional Neural Network application that makes use of image pre-processing and data generators to identify dog species from image.
+
